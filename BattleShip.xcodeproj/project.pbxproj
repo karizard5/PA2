@@ -69,13 +69,13 @@
 		37F319322146ED8200BD546B /* BattleShip */ = {
 			isa = PBXGroup;
 			children = (
+				37F319402146EDAB00BD546B /* main.swift */,
 				37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */,
-				37F3193D2146EDAA00BD546B /* BattleshipGame.swift */,
 				37F3193C2146EDAA00BD546B /* Cell.swift */,
 				37F3193B2146EDAA00BD546B /* Coordinates.swift */,
-				37F319402146EDAB00BD546B /* main.swift */,
 				37F3193E2146EDAA00BD546B /* Player.swift */,
 				37F3193F2146EDAB00BD546B /* Ship.swift */,
+				37F3193D2146EDAA00BD546B /* BattleshipGame.swift */,
 			);
 			path = BattleShip;
 			sourceTree = "<group>";
