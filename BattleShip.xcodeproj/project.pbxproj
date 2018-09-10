@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		37F319412146EDAB00BD546B /* BattleshipBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */; };
-		37F319422146EDAB00BD546B /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193B2146EDAA00BD546B /* Coordinates.swift */; };
-		37F319432146EDAB00BD546B /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193C2146EDAA00BD546B /* Cell.swift */; };
-		37F319442146EDAB00BD546B /* BattleshipGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193D2146EDAA00BD546B /* BattleshipGame.swift */; };
-		37F319452146EDAB00BD546B /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193E2146EDAA00BD546B /* Player.swift */; };
-		37F319462146EDAB00BD546B /* Ship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193F2146EDAB00BD546B /* Ship.swift */; };
-		37F319472146EDAB00BD546B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F319402146EDAB00BD546B /* main.swift */; };
+		37F3195021470C5A00BD546B /* BattleshipBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194921470C5A00BD546B /* BattleshipBoard.swift */; };
+		37F3195121470C5A00BD546B /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194A21470C5A00BD546B /* Coordinates.swift */; };
+		37F3195221470C5A00BD546B /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194B21470C5A00BD546B /* Cell.swift */; };
+		37F3195321470C5A00BD546B /* BattleshipGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194C21470C5A00BD546B /* BattleshipGame.swift */; };
+		37F3195421470C5A00BD546B /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194D21470C5A00BD546B /* Player.swift */; };
+		37F3195521470C5A00BD546B /* Ship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194E21470C5A00BD546B /* Ship.swift */; };
+		37F3195621470C5A00BD546B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3194F21470C5A00BD546B /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,13 +30,13 @@
 
 /* Begin PBXFileReference section */
 		37F319302146ED8200BD546B /* BattleShip */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BattleShip; sourceTree = BUILT_PRODUCTS_DIR; };
-		37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BattleshipBoard.swift; path = ../../../../Downloads/Untitled_Message/BattleshipBoard.swift; sourceTree = "<group>"; };
-		37F3193B2146EDAA00BD546B /* Coordinates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Coordinates.swift; path = ../../../../Downloads/Untitled_Message/Coordinates.swift; sourceTree = "<group>"; };
-		37F3193C2146EDAA00BD546B /* Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Cell.swift; path = ../../../../Downloads/Untitled_Message/Cell.swift; sourceTree = "<group>"; };
-		37F3193D2146EDAA00BD546B /* BattleshipGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BattleshipGame.swift; path = ../../../../Downloads/Untitled_Message/BattleshipGame.swift; sourceTree = "<group>"; };
-		37F3193E2146EDAA00BD546B /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../../../../Downloads/Untitled_Message/Player.swift; sourceTree = "<group>"; };
-		37F3193F2146EDAB00BD546B /* Ship.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Ship.swift; path = ../../../../Downloads/Untitled_Message/Ship.swift; sourceTree = "<group>"; };
-		37F319402146EDAB00BD546B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../../../Downloads/Untitled_Message/main.swift; sourceTree = "<group>"; };
+		37F3194921470C5A00BD546B /* BattleshipBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BattleshipBoard.swift; sourceTree = "<group>"; };
+		37F3194A21470C5A00BD546B /* Coordinates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinates.swift; sourceTree = "<group>"; };
+		37F3194B21470C5A00BD546B /* Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		37F3194C21470C5A00BD546B /* BattleshipGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BattleshipGame.swift; sourceTree = "<group>"; };
+		37F3194D21470C5A00BD546B /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		37F3194E21470C5A00BD546B /* Ship.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ship.swift; sourceTree = "<group>"; };
+		37F3194F21470C5A00BD546B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../../../Downloads/Untitled_Message/main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,13 +69,13 @@
 		37F319322146ED8200BD546B /* BattleShip */ = {
 			isa = PBXGroup;
 			children = (
-				37F319402146EDAB00BD546B /* main.swift */,
-				37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */,
-				37F3193C2146EDAA00BD546B /* Cell.swift */,
-				37F3193B2146EDAA00BD546B /* Coordinates.swift */,
-				37F3193E2146EDAA00BD546B /* Player.swift */,
-				37F3193F2146EDAB00BD546B /* Ship.swift */,
-				37F3193D2146EDAA00BD546B /* BattleshipGame.swift */,
+				37F3194921470C5A00BD546B /* BattleshipBoard.swift */,
+				37F3194C21470C5A00BD546B /* BattleshipGame.swift */,
+				37F3194B21470C5A00BD546B /* Cell.swift */,
+				37F3194A21470C5A00BD546B /* Coordinates.swift */,
+				37F3194F21470C5A00BD546B /* main.swift */,
+				37F3194D21470C5A00BD546B /* Player.swift */,
+				37F3194E21470C5A00BD546B /* Ship.swift */,
 			);
 			path = BattleShip;
 			sourceTree = "<group>";
@@ -112,6 +112,7 @@
 				TargetAttributes = {
 					37F3192F2146ED8200BD546B = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 0940;
 					};
 				};
 			};
@@ -137,13 +138,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37F319442146EDAB00BD546B /* BattleshipGame.swift in Sources */,
-				37F319422146EDAB00BD546B /* Coordinates.swift in Sources */,
-				37F319472146EDAB00BD546B /* main.swift in Sources */,
-				37F319432146EDAB00BD546B /* Cell.swift in Sources */,
-				37F319412146EDAB00BD546B /* BattleshipBoard.swift in Sources */,
-				37F319452146EDAB00BD546B /* Player.swift in Sources */,
-				37F319462146EDAB00BD546B /* Ship.swift in Sources */,
+				37F3195021470C5A00BD546B /* BattleshipBoard.swift in Sources */,
+				37F3195621470C5A00BD546B /* main.swift in Sources */,
+				37F3195521470C5A00BD546B /* Ship.swift in Sources */,
+				37F3195321470C5A00BD546B /* BattleshipGame.swift in Sources */,
+				37F3195121470C5A00BD546B /* Coordinates.swift in Sources */,
+				37F3195421470C5A00BD546B /* Player.swift in Sources */,
+				37F3195221470C5A00BD546B /* Cell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,8 +267,15 @@
 		37F319382146ED8200BD546B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -275,7 +283,13 @@
 		37F319392146ED8200BD546B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
