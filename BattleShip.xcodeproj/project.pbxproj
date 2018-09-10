@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		37F319342146ED8200BD546B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F319332146ED8200BD546B /* main.swift */; };
+		37F319412146EDAB00BD546B /* BattleshipBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */; };
+		37F319422146EDAB00BD546B /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193B2146EDAA00BD546B /* Coordinates.swift */; };
+		37F319432146EDAB00BD546B /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193C2146EDAA00BD546B /* Cell.swift */; };
+		37F319442146EDAB00BD546B /* BattleshipGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193D2146EDAA00BD546B /* BattleshipGame.swift */; };
+		37F319452146EDAB00BD546B /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193E2146EDAA00BD546B /* Player.swift */; };
+		37F319462146EDAB00BD546B /* Ship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F3193F2146EDAB00BD546B /* Ship.swift */; };
+		37F319472146EDAB00BD546B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F319402146EDAB00BD546B /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +30,13 @@
 
 /* Begin PBXFileReference section */
 		37F319302146ED8200BD546B /* BattleShip */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BattleShip; sourceTree = BUILT_PRODUCTS_DIR; };
-		37F319332146ED8200BD546B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BattleshipBoard.swift; path = ../../../../Downloads/Untitled_Message/BattleshipBoard.swift; sourceTree = "<group>"; };
+		37F3193B2146EDAA00BD546B /* Coordinates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Coordinates.swift; path = ../../../../Downloads/Untitled_Message/Coordinates.swift; sourceTree = "<group>"; };
+		37F3193C2146EDAA00BD546B /* Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Cell.swift; path = ../../../../Downloads/Untitled_Message/Cell.swift; sourceTree = "<group>"; };
+		37F3193D2146EDAA00BD546B /* BattleshipGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BattleshipGame.swift; path = ../../../../Downloads/Untitled_Message/BattleshipGame.swift; sourceTree = "<group>"; };
+		37F3193E2146EDAA00BD546B /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../../../../Downloads/Untitled_Message/Player.swift; sourceTree = "<group>"; };
+		37F3193F2146EDAB00BD546B /* Ship.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Ship.swift; path = ../../../../Downloads/Untitled_Message/Ship.swift; sourceTree = "<group>"; };
+		37F319402146EDAB00BD546B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../../../Downloads/Untitled_Message/main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +69,13 @@
 		37F319322146ED8200BD546B /* BattleShip */ = {
 			isa = PBXGroup;
 			children = (
-				37F319332146ED8200BD546B /* main.swift */,
+				37F3193A2146EDAA00BD546B /* BattleshipBoard.swift */,
+				37F3193D2146EDAA00BD546B /* BattleshipGame.swift */,
+				37F3193C2146EDAA00BD546B /* Cell.swift */,
+				37F3193B2146EDAA00BD546B /* Coordinates.swift */,
+				37F319402146EDAB00BD546B /* main.swift */,
+				37F3193E2146EDAA00BD546B /* Player.swift */,
+				37F3193F2146EDAB00BD546B /* Ship.swift */,
 			);
 			path = BattleShip;
 			sourceTree = "<group>";
@@ -119,7 +137,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37F319342146ED8200BD546B /* main.swift in Sources */,
+				37F319442146EDAB00BD546B /* BattleshipGame.swift in Sources */,
+				37F319422146EDAB00BD546B /* Coordinates.swift in Sources */,
+				37F319472146EDAB00BD546B /* main.swift in Sources */,
+				37F319432146EDAB00BD546B /* Cell.swift in Sources */,
+				37F319412146EDAB00BD546B /* BattleshipBoard.swift in Sources */,
+				37F319452146EDAB00BD546B /* Player.swift in Sources */,
+				37F319462146EDAB00BD546B /* Ship.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
